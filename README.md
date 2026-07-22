@@ -30,8 +30,7 @@ Sitio web corporativo para mi marca de servicios digitales freelance, orientada 
 - **Destacables:** diseño responsive con paleta de marca (`#0B0F19`, `#111827`, dorado `#D4AF37`), estructura de secciones clara (servicios, propuesta de valor, contacto) y flujo de conversión directo a WhatsApp.
 - 🔗 Repositorio: *(añadir enlace al repo de GitHub)*
 - 🔗 Demo en vivo: https://presenciaonlineprofesional.github.io/PresencIA/
-### 🧭 [Talento sin Fronteras](https://proyectotalentosinfronteras.github.io/talento_sin_fronteras/)
-Plataforma web integral de orientación laboral para personas extranjeras que buscan empleo en España, con foco en accesibilidad de la información legal y laboral.
+  
 ---
 
 - **Qué resuelve:** centraliza documentación (NIE/TIE, homologación de títulos), derechos laborales, un directorio de empresas inclusivas y herramientas con IA (consultor de visados, generador de CV en formato ATS, simulador de entrevistas).
