@@ -1,6 +1,6 @@
 # ¡Hola! Soy Cami 👋
 
-**Data Analyst + Applied AI** | Ex-profesional de Administración y RRHH con +14 años de experiencia internacional (Brasil, Italia, Portugal, España)
+**Data Analyst + Applied AI** | Background en Administración y gestión con +14 años de experiencia internacional (Brasil, Italia, Portugal, España)
 
 🌍 Trilingüe: Español · Português · English
 📍 Alicante, España
