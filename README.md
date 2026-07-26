@@ -10,69 +10,45 @@
   <img src="https://shields.io" alt="Python"/>
   <img src="https://shields.io" alt="SQL"/>
   <img src="https://shields.io" alt="Pandas"/>
-  <img src="https://shields.io" alt="SQLite"/>
   <img src="https://shields.io" alt="Power BI"/>
   <img src="https://shields.io" alt="React"/>
-  <img src="https://shields.io" alt="Tailwind CSS"/>
   <img src="https://shields.io" alt="Git"/>
-  <img src="https://shields.io" alt="GitHub"/>
 </p>
 
-🌍 **Español · Português · English**  
-📍 **Alicante, España**
+🌍 **Español · Português · English** | 📍 **Alicante, España**
 
 ---
 
 ## 👩‍💻 Sobre mí
-
-Soy una profesional con más de **14 años de experiencia internacional** en administración, gestión y operaciones. Actualmente enfocada en **Análisis de Datos** y **IA Aplicada**, combinando experiencia de negocio con habilidades técnicas.
+Profesional con +14 años de experiencia, reenfocando mi carrera hacia **Análisis de Datos** e **Inteligencia Artificial**. Especializada en transformar datos en soluciones técnicas usando Python, SQL y Power BI.
 
 ---
 
 ## 🏆 Certificaciones y Formación
-
-*   **🎓 Programa de Formación Profesional (En Curso)**
-    *   **Enfoque:** Análisis de datos, Inteligencia Artificial aplicada y desarrollo web. (Finalización: Octubre 2026).
-*   **📜 Introducción a la Inteligencia Artificial** - Fundación Somos F5 & Iberdrola (*ImpulsIA*).
-*   **⚡ Itinerario Formativo de Descubrimiento Tecnológico** - Fundación Somos F5 & Iberdrola (*ImpulsIA*).
+*   **Formación Profesional (En curso):** Data Analyst + IA + Web (Finalización Oct 2026).
+*   **Introducción a la IA (ImpulsIA):** Python, Pandas, Scikit-learn, Neural Networks.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos Destacados
 
-### 📊 Data Analyst Portfolio
-Portfolio técnico enfocado en SQL, Python y Pandas. 🔗 [Data Analyst Portfolio](https://github.com)
-
-### 🧭 Talento sin Fronteras
-Plataforma web para empleo en España con integración de IA. 🔗 [Talento sin Fronteras](https://github.com)
-
-### 🌐 PresencIA
-Soluciones web y posicionamiento para pymes. 🔗 [PresencIA](https://github.com)
+*   📊 **[Data Analyst Portfolio](https://github.com):** Ejercicios de SQL, Python y Pandas.
+*   🧭 **[Talento sin Fronteras](https://github.com):** Plataforma de inserción laboral (IA, JS).
+*   🌐 **[PresencIA](https://github.com):** Web corporativa (React, Tailwind).
 
 ---
 
-## 🛠️ Tecnologías
-**Python, SQL, Pandas, SQLite, Power BI, React, Tailwind CSS, Git/GitHub.**
+## 🛠 Tecnologías
+Python, SQL, Pandas, Power BI, React, Git, GitHub Actions.
 
 ---
 
-## 📫 Contacto
-LinkedIn: [://linkedin.com](https://://linkedin.com)
-
----
-
-## 📈 Estadísticas de GitHub
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://vercel.app" alt="Estadísticas de GitHub" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://vercel.app" alt="Lenguajes más usados" width="100%" />
-    </td>
-  </tr>
-</table>
+## 📈 Resumen de Actividad
 
 <p align="center">
-  <img src="https://glitch.me" alt="Contador de visitas" />
+  <img src="https://vercel.app" alt="Gráfico de Actividad de GitHub" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Contador de visitas" />
 </p>
