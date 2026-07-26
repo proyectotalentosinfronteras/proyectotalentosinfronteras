@@ -115,6 +115,13 @@ Sitio web corporativo para ofrecer servicios de presencia online a pymes y autó
 - 📈 Visualización de datos y dashboards
 
 ## 📫 Contacto
+
+- LinkedIn: [linkedin.com/in/camilarabeloamorim](https://linkedin.com/in/camilarabeloamorim)
+
+---
+
+## 📈 Estadísticas de GitHub
+
 <table>
   <tr>
     <td width="50%">
