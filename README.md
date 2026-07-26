@@ -123,17 +123,23 @@ Sitio web corporativo para ofrecer servicios de presencia online a pymes y autó
 
 ## 📈 Estadísticas de GitHub
 
-<table border="0" width="100%">
+<table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://vercel.app" alt="Estadísticas de GitHub" width="100%" />
+    <td width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=proyectotalentosinfronteras&show_icons=true&theme=tokyonight"
+        width="100%"
+      />
     </td>
-    <td width="50%" align="center">
-      <img src="https://vercel.app" alt="Lenguajes más usados" width="100%" />
+    <td width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=proyectotalentosinfronteras&layout=compact&theme=tokyonight"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://glitch.me" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=proyectotalentosinfronteras&style=for-the-badge&color=blue" />
 </p>
